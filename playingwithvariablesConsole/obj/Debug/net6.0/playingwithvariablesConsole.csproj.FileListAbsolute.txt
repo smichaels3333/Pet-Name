@@ -1,0 +1,15 @@
+C:\Users\13173\source\repos\playingwithvariables\playingwithvariablesConsole\bin\Debug\net6.0\playingwithvariablesConsole.exe
+C:\Users\13173\source\repos\playingwithvariables\playingwithvariablesConsole\bin\Debug\net6.0\playingwithvariablesConsole.deps.json
+C:\Users\13173\source\repos\playingwithvariables\playingwithvariablesConsole\bin\Debug\net6.0\playingwithvariablesConsole.runtimeconfig.json
+C:\Users\13173\source\repos\playingwithvariables\playingwithvariablesConsole\bin\Debug\net6.0\playingwithvariablesConsole.dll
+C:\Users\13173\source\repos\playingwithvariables\playingwithvariablesConsole\bin\Debug\net6.0\playingwithvariablesConsole.pdb
+C:\Users\13173\source\repos\playingwithvariables\playingwithvariablesConsole\obj\Debug\net6.0\playingwithvariablesConsole.csproj.AssemblyReference.cache
+C:\Users\13173\source\repos\playingwithvariables\playingwithvariablesConsole\obj\Debug\net6.0\playingwithvariablesConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\13173\source\repos\playingwithvariables\playingwithvariablesConsole\obj\Debug\net6.0\playingwithvariablesConsole.AssemblyInfoInputs.cache
+C:\Users\13173\source\repos\playingwithvariables\playingwithvariablesConsole\obj\Debug\net6.0\playingwithvariablesConsole.AssemblyInfo.cs
+C:\Users\13173\source\repos\playingwithvariables\playingwithvariablesConsole\obj\Debug\net6.0\playingwithvariablesConsole.csproj.CoreCompileInputs.cache
+C:\Users\13173\source\repos\playingwithvariables\playingwithvariablesConsole\obj\Debug\net6.0\playingwithvariablesConsole.dll
+C:\Users\13173\source\repos\playingwithvariables\playingwithvariablesConsole\obj\Debug\net6.0\refint\playingwithvariablesConsole.dll
+C:\Users\13173\source\repos\playingwithvariables\playingwithvariablesConsole\obj\Debug\net6.0\playingwithvariablesConsole.pdb
+C:\Users\13173\source\repos\playingwithvariables\playingwithvariablesConsole\obj\Debug\net6.0\playingwithvariablesConsole.genruntimeconfig.cache
+C:\Users\13173\source\repos\playingwithvariables\playingwithvariablesConsole\obj\Debug\net6.0\ref\playingwithvariablesConsole.dll
